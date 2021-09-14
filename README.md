@@ -28,7 +28,7 @@ Load balancing ensures that the application will be highly reliable, in addition
 The advantage of a jump box is it sits between VMs on a network and forces all traffic through a single node. This allows you to focus on interactions between routers rather than monitoring all of your machines at once. 
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the logs and system metrics.
-- Filebeat monitors log files for changes and collects log events which is forwarded to an Elasticsearch for indexing. 
+- Filebeat monitors log files for changes and collects log events which are forwarded to an Elasticsearch for indexing. 
 - Metricbeat records metrics from the systems and services running on a server and then based on the specified output, such as Elasticsearch or Logstash, you can view these metrics.
 
 The configuration details of each machine may be found below.
