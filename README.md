@@ -4,7 +4,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Topology](https://user-images.githubusercontent.com/90206548/132817646-c1cdccbc-15be-4741-b86c-a4b9df92bc51.png)
+![Untitled Diagram(1) drawio(1)](https://user-images.githubusercontent.com/90206548/133177781-206310e1-4029-4395-a03c-3106dea7a236.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the install-elk.yml file may be used to install only certain pieces of it, such as Filebeat.
 
